@@ -13,7 +13,8 @@
 }
 
 div#wall #tag-2 {
-  background: none; 
+  background: none;
+  border-color: blue;
   z-index: 7;
 }
 

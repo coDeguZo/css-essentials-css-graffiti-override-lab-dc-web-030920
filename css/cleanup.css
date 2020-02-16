@@ -12,9 +12,9 @@
   margin: 150px;
 }
 
-#wall #tag-2 {
+div#wall #tag-2 {
   background: none;
-  background-color: red;
+  background-color: ;
   z-index: 7;
 }
 

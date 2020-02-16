@@ -13,10 +13,14 @@
 }
 
 #wall #tag-2 {
-  background: none;
+  background: none; 
   z-index: 7;
 }
 
 
-
+#wall .parent #tag-4 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 100px;
+}
 

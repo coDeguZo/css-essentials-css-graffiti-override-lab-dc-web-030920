@@ -14,7 +14,7 @@
 
 div#wall #tag-2 {
   background: none;
-  border-color: blue;
+  background-color: red;
   z-index: 7;
 }
 

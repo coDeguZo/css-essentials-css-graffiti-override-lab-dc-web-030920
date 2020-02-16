@@ -1,1 +1,17 @@
 /* write your override styles here */
+
+/*#wall .tag-1 {*/
+/* background-color: ;*/
+/*}*/
+
+#wall .tag-1 {
+  background-color: red;
+  padding-top: 30px;
+}
+
+.parent #tag-4 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin: 100px;
+}
+
